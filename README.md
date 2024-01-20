@@ -7,7 +7,7 @@
 |  Дата 	|   Тема	|  Материалы 	|  [Записи лекций](https://disk.yandex.ru/d/Q5mm6LB8XIyaTA) 	| Проверочное |
 |:---:	|---	|:---:	|:---:	|:---:	|
 |  14.01 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Лекция 1](https://docs.google.com/presentation/d/1H3sxAzftv7nBWHGl6W38ZDvdMa1OlyuegWdKeZerGBQ/edit?usp=sharing)  	|   [Лекция 1](https://disk.yandex.ru/i/jYJ1lha1hibhZg) | |
-|  21.01	|  Корпусная лингвистика 	|    	|   	| |
+|  21.01	|  Корпусная лингвистика 	|    	|   [Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md)	| |
 |  28.01	|  Создание собственного корпуса	|    	|  	|  |
 |  04.02	|  Частотностные характеристики текста: Визуализация 	|    	|   	|  |
 |   11.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|  |
