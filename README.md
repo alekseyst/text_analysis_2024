@@ -6,8 +6,8 @@
 
 |  Дата 	|   Тема	|  Материалы 	|  [Записи](https://disk.yandex.ru/d/Q5mm6LB8XIyaTA) 	| Задания |
 |:---:	|---	|:---:	|:---:	|:---:	|
-|  14.01 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Презентация](https://docs.google.com/presentation/d/1H3sxAzftv7nBWHGl6W38ZDvdMa1OlyuegWdKeZerGBQ/edit?usp=sharing)  	|   [Запись 1](https://disk.yandex.ru/i/jYJ1lha1hibhZg) | |
-|  21.01	|  Корпусная лингвистика 	|   [Презентация](https://docs.google.com/presentation/d/1jJO1AxRmG_fMwREB7AIMU45yghLkA-AqMl_IiWFr7x4/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md) 	|   [Запись 2, часть 1](https://disk.yandex.ru/i/-VZfBDPOpoVXUg)<br>[Запись 2, часть 2](https://disk.yandex.ru/i/Lx7v9LnJgAJLiw)	| К 27.01 (не на оценку) |
+|  13.01 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Презентация](https://docs.google.com/presentation/d/1H3sxAzftv7nBWHGl6W38ZDvdMa1OlyuegWdKeZerGBQ/edit?usp=sharing)  	|   [Запись 1](https://disk.yandex.ru/i/jYJ1lha1hibhZg) | |
+|  20.01	|  Корпусная лингвистика 	|   [Презентация](https://docs.google.com/presentation/d/1jJO1AxRmG_fMwREB7AIMU45yghLkA-AqMl_IiWFr7x4/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md) 	|   [Запись 2, часть 1](https://disk.yandex.ru/i/-VZfBDPOpoVXUg)<br>[Запись 2, часть 2](https://disk.yandex.ru/i/Lx7v9LnJgAJLiw)	| К 27.01 (не на оценку) |
 |  27.01	|  Создание собственного корпуса	|    	|  	|  |
 |  03.02	|  Частотностные характеристики текста: Визуализация 	|    	|   	|  |
 |   10.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|  |
