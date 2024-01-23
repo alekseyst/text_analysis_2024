@@ -4,10 +4,10 @@
 
 ## Программа
 
-|  Дата 	|   Тема	|  Материалы 	|  [Записи](https://disk.yandex.ru/d/Q5mm6LB8XIyaTA) 	| Проверочное |
+|  Дата 	|   Тема	|  Материалы 	|  [Записи](https://disk.yandex.ru/d/Q5mm6LB8XIyaTA) 	| Задания |
 |:---:	|---	|:---:	|:---:	|:---:	|
 |  14.01 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Презентация](https://docs.google.com/presentation/d/1H3sxAzftv7nBWHGl6W38ZDvdMa1OlyuegWdKeZerGBQ/edit?usp=sharing)  	|   [Запись 1](https://disk.yandex.ru/i/jYJ1lha1hibhZg) | |
-|  21.01	|  Корпусная лингвистика 	|   [Презентация](https://docs.google.com/presentation/d/1jJO1AxRmG_fMwREB7AIMU45yghLkA-AqMl_IiWFr7x4/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md) 	|   	| |
+|  21.01	|  Корпусная лингвистика 	|   [Презентация](https://docs.google.com/presentation/d/1jJO1AxRmG_fMwREB7AIMU45yghLkA-AqMl_IiWFr7x4/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md) 	|   [Запись 2, часть 1](https://disk.yandex.ru/i/-VZfBDPOpoVXUg)<br>[Запись 2, часть 2](https://disk.yandex.ru/i/Lx7v9LnJgAJLiw)	| |
 |  28.01	|  Создание собственного корпуса	|    	|  	|  |
 |  04.02	|  Частотностные характеристики текста: Визуализация 	|    	|   	|  |
 |   11.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|  |
@@ -16,7 +16,9 @@
 
 ## Домашние задания
 
-TBA
+### К 26.01 (не на оценку)
+
+Выполните 5 заданий из [Практического задания 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md), которые мы не успели разобрать на занятии. Если у вас возникли сложности при их выполнении, запомните их, чтобы обсудить в ближайшую пятницу.
 
 ## Телеграм-чат
 
