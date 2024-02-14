@@ -10,8 +10,7 @@
 |  20.01	|  Корпусная лингвистика 	|   [Презентация 2](https://docs.google.com/presentation/d/1jJO1AxRmG_fMwREB7AIMU45yghLkA-AqMl_IiWFr7x4/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md) 	|   [Запись 2, часть 1](https://disk.yandex.ru/i/-VZfBDPOpoVXUg)<br>[Запись 2, часть 2](https://disk.yandex.ru/i/Lx7v9LnJgAJLiw)	| К 27.01 (не на оценку) |
 |  27.01	|  Создание собственного корпуса	|    [Презентация 3](https://docs.google.com/presentation/d/1buYH8s0aNHI2HwARIzUkRBVFHb2CEhhPFXpYxqG4G-o/edit?usp=sharing)<br>[Практическое задание 2](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_2/Practical_2.md)<br>[Практическое задание 3](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_3/Practical_3.md)	| [Запись 3_1](https://disk.yandex.ru/i/N3yX4Ql91J7R6A)<br>[Запись 3_2](https://disk.yandex.ru/i/lE32KBQVSNQA4A) 	|  |
 |  03.02	|  Создание собственного корпуса 	|   [Практикум по Питону](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_4/Practical_4_Chto_umeet_Piton.ipynb) 	|   	|  |
-|   10.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|  |
-|   17.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|  |
+|   17.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|[Домашнее задание 1](https://github.com/alekseyst/text_analysis_2024?tab=readme-ov-file#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1) |
 |   24.02 |  Инструменты компьютерной лингвистики	|    	|   |  |
 |  02.03 	|  Инструменты компьютерной лингвистики	|   	|   	| |
 
@@ -25,7 +24,7 @@
 
 Задание доступно по [ссылке](https://github.com/alekseyst/text_analysis_2024/blob/main/HW_1/HW_1.pdf).
 
-Срок сдачи — 24 февраля, 23.59.
+Срок сдачи — 25 февраля, 23.59.
 
 Задание необходимо выслать в файле на почту [astarchenko@hse.ru](mailto:astarchenko@hse.ru).
 
