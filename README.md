@@ -22,7 +22,7 @@
 
 ### Домашнее задание 1
 
-Задание доступно по [ссылке](https://github.com/alekseyst/text_analysis_2024/blob/main/HW_1/HW_1.pdf).
+Задание доступно по [ссылке](https://raw.githubusercontent.com/alekseyst/text_analysis_2024/master/HW_1/HW_1.pdf).
 
 Срок сдачи — 25 февраля, 23.59.
 
