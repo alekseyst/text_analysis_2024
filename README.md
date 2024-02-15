@@ -8,11 +8,13 @@
 |:---:	|---	|:---:	|:---:	|:---:	|
 |  13.01 	|  Введение. Обзор направлений в текстовом анализе. Предмет лингвистики. Digital humanities. 	|  [Презентация 1](https://docs.google.com/presentation/d/1H3sxAzftv7nBWHGl6W38ZDvdMa1OlyuegWdKeZerGBQ/edit?usp=sharing)  	|   [Запись 1](https://disk.yandex.ru/i/jYJ1lha1hibhZg) | |
 |  20.01	|  Корпусная лингвистика 	|   [Презентация 2](https://docs.google.com/presentation/d/1jJO1AxRmG_fMwREB7AIMU45yghLkA-AqMl_IiWFr7x4/edit?usp=sharing)<br>[Практическое задание 1](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_1/Practical_1.md) 	|   [Запись 2, часть 1](https://disk.yandex.ru/i/-VZfBDPOpoVXUg)<br>[Запись 2, часть 2](https://disk.yandex.ru/i/Lx7v9LnJgAJLiw)	| [К 27.01 (не на оценку)](https://github.com/alekseyst/text_analysis_2024?tab=readme-ov-file#%D0%BA-2701-%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D1%83) |
-|  27.01	|  Создание собственного корпуса	|    [Презентация 3](https://docs.google.com/presentation/d/1buYH8s0aNHI2HwARIzUkRBVFHb2CEhhPFXpYxqG4G-o/edit?usp=sharing)<br>[Практическое задание 2](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_2/Practical_2.md)<br>[Практическое задание 3](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_3/Practical_3.md)	| [Запись 3_1](https://disk.yandex.ru/i/N3yX4Ql91J7R6A)<br>[Запись 3_2](https://disk.yandex.ru/i/lE32KBQVSNQA4A) 	|  |
-|  03.02	|  Создание собственного корпуса 	|   [Практикум по Питону](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_4/Practical_4_Chto_umeet_Piton.ipynb) 	|   	|  |
-|   17.02	|  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   	 	|[Домашнее задание 1](https://github.com/alekseyst/text_analysis_2024?tab=readme-ov-file#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1) |
-|   24.02 |  Инструменты компьютерной лингвистики	|    	|   |  |
-|  02.03 	|  Инструменты компьютерной лингвистики	|   	|   	| |
+|  27.01	|  Корпусная лингвистика, продолжение<br>Работа с текстовыми данными в электронных таблицах	|    [Презентация 3](https://docs.google.com/presentation/d/1buYH8s0aNHI2HwARIzUkRBVFHb2CEhhPFXpYxqG4G-o/edit?usp=sharing)<br>[Практическое задание 2](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_2/Practical_2.md)	| [Запись 3_1](https://disk.yandex.ru/i/N3yX4Ql91J7R6A)<br>[Запись 3_2](https://disk.yandex.ru/i/lE32KBQVSNQA4A) 	|  |
+|  03.02	|  Создание собственного корпуса: AntConc<br>Практикум по Python	|   [Практическое задание 3](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_3/Practical_3.md)<br>[Практикум по Питону](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_4/Practical_4_Chto_umeet_Piton.ipynb) 	|   [Запись 4_1](https://disk.yandex.ru/i/Hl2_1INWgPdCLw)<br>[Запись 4_2](https://disk.yandex.ru/i/vmOsI-HLpk1mVA)	|  |
+|   17.02	|  Разметка собственного корпуса в Python	|    	|   	 	| |
+|   24.02 |  Частотностные характеристики текста: Базовые инструменты статистического анализа	|    	|   | [Домашнее задание 1](https://github.com/alekseyst/text_analysis_2024?tab=readme-ov-file#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1),<be>до 25.02 |
+|  02.03 	|  Инструменты компьютерной лингвистики	|   	|   	| [Дедлайн выбора тем проектов](https://github.com/alekseyst/text_analysis_2024/blob/main/Tasks/Final_projects.md)  |
+|  16.03 	|  Машинное обучение при обработке текстов	|   	|   	| |
+|  TBA 	|  Защита проектов	|   	|   	| |
 
 ## Домашние задания
 
@@ -22,11 +24,17 @@
 
 ### Домашнее задание 1
 
-Задание доступно по [ссылке](https://raw.githubusercontent.com/alekseyst/text_analysis_2024/master/HW_1/HW_1.pdf).
+Задание доступно по [ссылке](https://raw.githubusercontent.com/alekseyst/text_analysis_2024/master/Tasks/HW_1.pdf).
 
 Срок сдачи — 25 февраля, 23.59.
 
 Задание необходимо выслать в файле на почту [astarchenko@hse.ru](mailto:astarchenko@hse.ru).
+
+### Проект — экзамен
+
+Задание доступно по [ссылке](https://github.com/alekseyst/text_analysis_2024/blob/main/Tasks/Final_projects.md)
+
+Срок здачи — будет определён вместе со временем экзамена.
 
 ## Формула оценки
 
