@@ -12,7 +12,7 @@
 |  03.02	|  Создание собственного корпуса: AntConc<br>Практикум по Python	|   [Практическое задание 3](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_3/Practical_3.md)<br>[Практикум по Питону](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_4/Practical_4_Chto_umeet_Piton.ipynb) 	|   [Запись 4_1](https://disk.yandex.ru/i/Hl2_1INWgPdCLw)<br>[Запись 4_2](https://disk.yandex.ru/i/vmOsI-HLpk1mVA)	|  |
 |   17.02	|  Морфологическая разметка в Python	|   [Практическое задание 5](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_5/Practical_5_Annotation.ipynb) 	|   	[Запись 5_1](https://disk.yandex.ru/i/7s7Z-4IcPaslGQ)<br>[Запись 5_2](https://disk.yandex.ru/i/aotXCmnhy-izKA) 	| |
 |   24.02 |  Разметка собственного корпуса в Python, Описательная статистика, визуализация данных	|    [Презентация 4](https://docs.google.com/presentation/d/18EaX7elVRvsa2-NwBXkcdNQax1c0t2EpSmYXszTuFlQ/edit?usp=sharing)<br>[Практическое задание 6](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_6/Practical_6_CreatingCorpus.ipynb)<br>[Практическое задание 7](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_7/Practical_7_Visualization.ipynb)	|  [Запись 6_1](https://disk.yandex.ru/i/orZ_BESRD9ESOQ)<br>[Запись 6_2](https://disk.yandex.ru/i/tJmTh9MzRBlzcg) | [Домашнее задание 1](https://github.com/alekseyst/text_analysis_2024?tab=readme-ov-file#%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-1),<br>до 25.02 |
-|  02.03 	|  Аналитическая статистика	|   [Практическое задание 8](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_8/Practical_8_StatInference.ipynb)	|   	| [Дедлайн выбора тем проектов](https://github.com/alekseyst/text_analysis_2024/blob/main/Tasks/Final_projects.md)  |
+|  02.03 	|  Аналитическая статистика	|   [Презентация 5](https://docs.google.com/presentation/d/1yOs18eB0E9jn_snZzM2bM52JChhkN5hFxIfrbq63hAA/edit?usp=sharing)<br>[Практическое задание 8](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_8/Practical_8_StatInference.ipynb)	|   [Запись 7_1](https://disk.yandex.ru/i/k0a2sDaE019qCQ)<br>[Запись 7_2](https://disk.yandex.ru/i/cMnDlovl0GzuoA)<br>[Запись 7_3](https://disk.yandex.ru/i/RZ5qnQeWvxwp9A)	| [Дедлайн выбора тем проектов](https://github.com/alekseyst/text_analysis_2024/blob/main/Tasks/Final_projects.md)  |
 |  16.03 	|  Машинное обучение при обработке текстов	|   	|   	| |
 |  TBA 	|  Защита проектов	|   	|   	| |
 
@@ -29,6 +29,10 @@
 Срок сдачи — 25 февраля, 23.59.
 
 Задание необходимо выслать в файле на почту [astarchenko@hse.ru](mailto:astarchenko@hse.ru).
+
+### Практика по аналитической статистике (не на оценку)
+
+Выполните [Практическое задание 8](https://github.com/alekseyst/text_analysis_2024/blob/main/Practical_8/Practical_8_StatInference.ipynb). Пришлите, что у вас получилось, в личные сообщения. Не забудьте указать критерии, которые использовали. 
 
 ### Проект — экзамен
 
