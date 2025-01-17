@@ -16,10 +16,6 @@
 |  16.03 	|  Машинное обучение при обработке текстов	|  [Презентация 6](https://docs.google.com/presentation/d/1lDqrmASHsQAo7EK7LV1727E57EWZvRYSrUdAxxvhfUA/edit?usp=sharing) 	|   [Запись 8](https://disk.yandex.ru/d/St3xOehvogLCbA)	| |
 |  17.03 	|  Защита проектов	|   	|   	| [Домашнее задание 2](https://github.com/alekseyst/text_analysis_2024/blob/main/Tasks/HW_2.md),<br>до 20.03 |
 
-## Ведомость
-
-[https://docs.google.com/spreadsheets/d/16bQh7EJhSBRpPyYZus2zei8EKF3e9PR6cJ12lAT6uPs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/16bQh7EJhSBRpPyYZus2zei8EKF3e9PR6cJ12lAT6uPs/edit?usp=sharing)
-
 ## Домашние задания
 
 ### К 27.01 (не на оценку)
